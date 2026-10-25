@@ -1,0 +1,100 @@
+[
+  {
+    "code": "NBC-FF-01",
+    "title": "Occupancy classification drives system type",
+    "occupancy": "all",
+    "category": "classification",
+    "requirement": "Classify the building occupancy before selecting hydrant, sprinkler, detection and egress provisions. Mixed use follows the more restrictive occupancy for shared fire systems."
+  },
+  {
+    "code": "NBC-FF-02",
+    "title": "Yard hydrant coverage",
+    "occupancy": "all",
+    "category": "hydrant",
+    "requirement": "Provide external yard hydrants so every point of the building envelope is reachable with a standard fire-brigade hose lay. Keep hydrants on hard-standing, clear of parking, and fed from the fire water network."
+  },
+  {
+    "code": "NBC-FF-03",
+    "title": "First-aid hose reels",
+    "occupancy": "all",
+    "category": "hose_reel",
+    "requirement": "Install first-aid hose reels so occupants can reach every point of a floor with the hose. Place reels on escape routes, typically near stair lobbies, not inside locked rooms."
+  },
+  {
+    "code": "NBC-FF-04",
+    "title": "Wet riser / downcomer",
+    "occupancy": "all",
+    "category": "riser",
+    "requirement": "Provide wet risers or downcomers based on building height. Landing valves at each floor; riser in a fire-rated shaft accessible from the staircase lobby."
+  },
+  {
+    "code": "NBC-FF-05",
+    "title": "Automatic sprinklers",
+    "occupancy": "all",
+    "category": "sprinkler",
+    "requirement": "Provide sprinklers where occupancy, height or fire load requires them (typical for large mercantile, assembly, basement parking and high-rise). Space heads for full coverage, including hidden voids if required."
+  },
+  {
+    "code": "NBC-FF-06",
+    "title": "Fire water tanks",
+    "occupancy": "all",
+    "category": "water_supply",
+    "requirement": "Provide underground or terrace tanks sized for the most demanding system (sprinkler + hydrant). Keep suction, fill and overflow arrangements independent of domestic water where required."
+  },
+  {
+    "code": "NBC-FF-07",
+    "title": "Fire pumps",
+    "occupancy": "all",
+    "category": "pumps",
+    "requirement": "Provide electric main pump, diesel standby and jockey pump as a set, located in a protected pump room with direct access and reliable power / fuel."
+  },
+  {
+    "code": "NBC-FF-08",
+    "title": "Portable extinguishers",
+    "occupancy": "all",
+    "category": "extinguisher",
+    "requirement": "Distribute ABC/CO2 extinguishers along escape routes and at electrical rooms, kitchens and parking. Do not substitute extinguishers for required fixed systems."
+  },
+  {
+    "code": "NBC-FF-09",
+    "title": "Means of escape",
+    "occupancy": "all",
+    "category": "egress",
+    "requirement": "Keep travel distances, number of exits and corridor/stair widths compliant. Fire systems must not obstruct exits. Place hose reels and extinguishers without reducing required clear width."
+  },
+  {
+    "code": "NBC-FF-10",
+    "title": "Basement and parking",
+    "occupancy": "all",
+    "category": "basement",
+    "requirement": "Basements and covered parking typically need sprinklers, hydrants/hose reels, mechanical smoke ventilation and clearly marked vehicle and pedestrian exits."
+  },
+  {
+    "code": "NBC-FF-11",
+    "title": "High-rise extra provisions",
+    "occupancy": "residential",
+    "category": "high_rise",
+    "requirement": "For tall residential towers, include wet risers, sprinklers as required by height, fireman's lift, refuge areas, and a dedicated fire pump / tank arrangement."
+  },
+  {
+    "code": "NBC-FF-12",
+    "title": "Mercantile sprinkler emphasis",
+    "occupancy": "mercantile",
+    "category": "sprinkler",
+    "requirement": "Shops, malls and storage-adjacent retail assume higher fire load. Prefer full sprinkler coverage, larger tank sizing and hydrants on service roads."
+  },
+  {
+    "code": "NBC-FF-13",
+    "title": "Assembly occupant load",
+    "occupancy": "assembly",
+    "category": "egress",
+    "requirement": "Theatres, halls and similar assembly spaces need extra exits, hose reels on public routes, and hydrant access for fire tenders at the main frontage."
+  },
+  {
+    "code": "NBC-FF-14",
+    "title": "Industrial hazard",
+    "occupancy": "industrial",
+    "category": "hazard",
+    "requirement": "Match hydrant spacing and water density to hazard. Isolate process areas, keep pump rooms remote from high-hazard stores, and provide hydrants around the plot boundary."
+  }
+]
